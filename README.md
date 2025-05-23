@@ -107,3 +107,4 @@ KalpHastaligiProjesi/
 │   └── model_degerlendirme.py  # Model değerlendirme
 └── requirements.txt        # Bağımlılıklar
 ```
+https://www.kaggle.com/code/yusufafsar/yusuf-afsar
